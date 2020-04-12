@@ -1,0 +1,28 @@
+1586543626942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHIVAM~1.NIG\\AppData\\Local\\Temp\\rust_mozprofileIPkNWY"
+1586543627285	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586543627305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586543627305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586543627305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586543627305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586543629269	Marionette	INFO	Listening on port 61956
+1586543629569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://services-sso.empirix.com/openam/XUI/libs/requirejs-2.1.14-min.js, line 8: Error: Load timeout for modules: org/forgerock/commons/ui/common/main/SpinnerManager,org/forgerock/commons/ui/common/main/ErrorsHandler,org/forgerock/commons/ui/common/main/GenericRouteInterfaceMap,org/forgerock/commons/ui/common/util/CustomPolyfill,org/forgerock/commons/ui/common/components/Breadcrumbs,org/forgerock/commons/ui/common/components/popup/PopupCtrl,org/forgerock/commons/ui/common/components/Footer,org/forgerock/commons/ui/common/components/GridTableView,org/forgerock/commons/ui/common/components/LineTableView,org/forgerock/commons/ui/common/components/ConfirmationDialog
+http://requirejs.org/docs/errors.html#timeout
+1586543751376	Marionette	INFO	Stopped listening on port 61956
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+,org/forgerock/openam/ui/user/profile/RegisterView,org/forgerock/openam/ui/dashboard/MyApplicationsDelegate,org/forgerock/openam/ui/dashboard/MyApplicationsView,org/forgerock/openam/ui/dashboard/TrustedDevicesDelegate,org/forgerock/openam/ui/dashboard/TrustedDevicesView,org/forgerock/openam/ui/dashboard/DashboardView,org/forgerock/openam/ui/dashboard/OAuthTokensDelegate,org/forgerock/openam/ui/dashboard/OAuthTokensView,org/forgerock/commons/ui/common/main/AbstractDelegate,org/forgerock/commons/ui/common/util/CookieHelper,org/forgerock/commons/ui/user/profile/UserProfileView,org/forgerock/commons/ui/user/profile/ConfirmPasswordDialog,org/forgerock/commons/ui/common/main/AbstractView,org/forgerock/commons/ui/common/main/Router,org/forgerock/commons/ui/common/main/main,org/forgerock/commons/ui/common/util/main,org/forgerock/commons/ui/common/components/main,org/forgerock/commons/ui/common/NotFoundView,org/forgerock/commons/ui/common/EnableCookiesView,org/forgerock/commons/ui/common/LoginView,org/forgerock/commons/ui/common/LoginDialog,org/forgerock/commons/ui/common/LoggedUserBarView,org/forgerock/commons/ui/common/SiteConfigurator,org/forgerock/commons/ui/common/components/Dialog,org/forgerock/commons/ui/common/main/ValidatorsManager
+http://requirejs.org/docs/errors.html#timeout
+1586543619446	Marionette	INFO	Stopped listening on port 61721
+JavaScript error: https://services-sso.empirix.com/openam/XUI/libs/requirejs-2.1.14-min.js, line 8: Error: Script error for: main
+http://requirejs.org/docs/errors.html#scripterror
+[Child 20512, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Child 20512, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
